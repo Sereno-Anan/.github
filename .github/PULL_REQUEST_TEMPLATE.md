@@ -42,4 +42,4 @@ resolve:
 - [ ] Assignerの設定ができている
 - [ ] Linked issuesの設定ができている
 - [ ] Milestoneの設定ができている
-- [ ] Projectsが設定できている
+- [ ] Projects(In Progress)が設定できている
