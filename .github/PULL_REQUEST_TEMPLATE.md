@@ -41,3 +41,5 @@ resolve:
 - [ ] タイトルをちゃんと設定できている
 - [ ] Assignerの設定ができている
 - [ ] Linked issuesの設定ができている
+- [ ] Milestoneの設定ができている
+- [ ] Projectsが設定できている
