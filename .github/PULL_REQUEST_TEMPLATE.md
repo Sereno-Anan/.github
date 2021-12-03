@@ -52,3 +52,4 @@ resolve:
 - [ ] Linked issuesの設定ができている
 - [ ] Milestoneの設定ができている
 - [ ] Projects(In Progress)が設定できている
+- [ ] Reviewerが設定できている
